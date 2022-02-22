@@ -7,7 +7,7 @@
 
 Name: cutefish-%{component_name}
 Version: 0.5
-Release: 0b%{?dist}
+Release: 1b%{?dist}
 License: GPLv3
 Summary: Qt platform theme plugin, unified style, for Cutefish Desktop
 
